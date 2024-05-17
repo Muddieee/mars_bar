@@ -1,4 +1,4 @@
-Replaces Mars planet card texture with a Mars bar
+Makes Mars planet card into a Mars bar card (replaces its texture and badge)
 
 Requires [Lovely](https://github.com/ethangreen-dev/lovely-injector)
 
